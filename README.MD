@@ -8,7 +8,8 @@ Find any video containing cars. Get the embedded link and change the src code to
 
 The training data set was found online. 
 
-![](https://media.giphy.com/media/8F3y2OZeYIZOqJupMl/source.gif)
+![](https://media.giphy.com/media/8F3y2OZeYIZOqJupMl/giphy-downsized-large.gif)
+[Demo](https://media.giphy.com/media/8F3y2OZeYIZOqJupMl/source.gif)
 
 **Credits to the java opencv tutorial**
 
